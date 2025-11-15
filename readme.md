@@ -7,4 +7,4 @@ git commit -m 'local'\
     *enter*\
 git push</code>
 
-Изменение 2.
+Изменение 2. 88005553535
